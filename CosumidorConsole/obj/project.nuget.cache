@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LoN9abd9uPprCpBtDsOP1Y1AGdhWzamMeKrhej62Q56stajKKl3Dx9+ggJt+vh6sHrUNGHAreE13U2fXnlGlRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael Marques\\source\\repos\\Api_Tarefa\\CosumidorConsole\\CosumidorConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael Marques\\.nuget\\packages\\flurl\\3.0.7\\flurl.3.0.7.nupkg.sha512",
+    "C:\\Users\\Rafael Marques\\.nuget\\packages\\flurl.http\\3.2.4\\flurl.http.3.2.4.nupkg.sha512",
+    "C:\\Users\\Rafael Marques\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\Rafael Marques\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Rafael Marques\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Rafael Marques\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
