@@ -58,6 +58,8 @@ foreach (var item in listaTarefas)
 //Deletar um item da lista
 
 string endpointDeletar = url + $"api/TarefaItems/2";
+await endpointDeletar.DeleteAsync();
+
 //Ler a lista
 Console.WriteLine();
 Console.WriteLine("Vamos deletar");
